@@ -47,7 +47,7 @@ CREATE TABLE posts(
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hatem-Mohammed-toma/BlogDB.git
+git clone https://github.com/Hatem-Mohammed-toma/Task_Blog.git
 ```
 
 2. Navigate to the project directory:
